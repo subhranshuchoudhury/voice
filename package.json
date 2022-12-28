@@ -1,0 +1,22 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "Node.js is an open-source, cross-platform, JavaScript runtime environment.",
+  "main": "index.js",
+  "engines": {
+    "node": "16.x"
+  },
+  "dependencies": {
+    "corepack": "^0.10.0",
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.6",
+    "npm": "^8.11.0",
+    "socket.io": "^4.5.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
